@@ -10,5 +10,5 @@
 - Alyanna Regina Quiray
 - Carlos Gabriel Quetua
 - Cesar III Ramos
-Mica Mierra Papna (unresponsive)
-Maria Elisa Pineda (unresponsive)
+- Mica Mierra Papna (unresponsive)
+- Maria Elisa Pineda (unresponsive)
