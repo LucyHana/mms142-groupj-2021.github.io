@@ -2,7 +2,7 @@
 
 ## MMS 142
 
-##Group J Members
+## Group J Members
 - Leann Nicole Rabang
 - Christian Reynold Pelejo
 - Christine Faye Pesimo
