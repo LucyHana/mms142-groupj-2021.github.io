@@ -1,4 +1,4 @@
-# Disruptive Technology: Digital Wallet
+# Disruptive Technology: Digital Wallet/E-Wallet
 
 ## MMS 142
 
